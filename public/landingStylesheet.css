@@ -30,8 +30,14 @@ ul.navbar-nav.mt-2.mt-md-0.ml-auto {
 }
 
 /*text color for text in the navbar, excludes the Build early ed part*/
-.navbar-dark .navbar-nav .nav-link, h3 {
+/* also added the text on the cards*/
+.navbar-dark .navbar-nav .nav-link, h3, h1 {
     color: #f8f7f7;
+}
+
+/*added negative matgin to card deck to overlap them over the blue of the navbar*/
+#quickCards {
+    margin-top: -5em;
 }
 
 /*color of the three main cards*/
