@@ -1,9 +1,13 @@
- #beeImg {
-    width: 15em;
-    margin: 3em;
+
+/* bee logo for all other pages */
+#beeImg {
+    width: 8em;
 }
 
+/* navbar bg color, text color and padding for landing page */
 nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
     padding-bottom: 5em;
     background-color: #84d0ce !important;
+    font-size: 15;
 }
+

@@ -1,0 +1,28 @@
+/* bee logo for the landing page */
+#beeImgLanding {
+    width: 15em;
+    margin: 3em;
+    margin-top: 2em;
+}
+
+/* navbar bg color, text color and padding for landing page */
+nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
+    padding-bottom: 5em;
+    background-color: #84d0ce !important;
+    font-size: 15;
+}
+
+/*navbar brand fontsize*/
+.navbar-dark .navbar-brand{
+    font-size: 3rem;
+}
+
+/* navbar link items fontsize*/
+ul.navbar-nav.mt-2.mt-md-0.ml-auto {
+    font-size: 1.5rem;
+}
+
+.navbar-dark .navbar-nav .nav-link, h3 {
+    color: #f8f7f7;
+}
+
