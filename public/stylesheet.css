@@ -1,0 +1,9 @@
+ #beeImg {
+    width: 15em;
+    margin: 3em;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
+    padding-bottom: 5em;
+    background-color: #84d0ce !important;
+}
