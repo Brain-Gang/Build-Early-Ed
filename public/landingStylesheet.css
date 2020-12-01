@@ -22,7 +22,19 @@ ul.navbar-nav.mt-2.mt-md-0.ml-auto {
     font-size: 1.5rem;
 }
 
+/*text color for text in the navbar, excludes the Build early ed part*/
 .navbar-dark .navbar-nav .nav-link, h3 {
     color: #f8f7f7;
 }
 
+/*color of the three main cards*/
+#quickCards > div > div > div:nth-child(1) {
+    background-color: #f75c6a !important;
+}
+
+#quickCards > div > div > div:nth-child(2) {
+    background-color: #f7dc69 !important;
+}
+#quickCards > div > div > div:nth-child(3) {
+    background-color: #947fa0 !important;
+}
