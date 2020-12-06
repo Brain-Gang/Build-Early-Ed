@@ -15,3 +15,38 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
 .navbar-light .navbar-brand{
     font-size: 2rem;
 }
+
+#pink {
+    background-color: #f75c6a;
+}
+
+#yellow {
+    background-color: #F7C321;
+}
+
+#purple {
+    background-color: #947fa0;
+}
+#blue {
+    background-color: #84d0ce;
+}
+.card-img-top .img-fluid {
+    width: 100%;
+    height: 15vw !important;
+    object-fit: cover;
+}
+#pink > img {
+    width: auto;
+    height: 15vw;
+    object-fit: cover;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 5vh;
+    width: 100%;
+    background-color: #84d0ce;
+    color: white;
+    text-align: center;
+  }
