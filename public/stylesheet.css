@@ -10,3 +10,8 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
     background-color: #84d0ce !important;
     font-size: 15;
 }
+
+/*navbar brand fontsize*/
+.navbar-light .navbar-brand{
+    font-size: 2rem;
+}
