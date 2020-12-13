@@ -59,9 +59,13 @@ ul.navbar-nav.mt-2.mt-md-0.ml-auto {
     position: fixed;
     left: 0;
     bottom: 0;
+    /* height: 8vh; */
     width: 100%;
     background-color: #84d0ce;
     color: white;
     text-align: center;
   }
 
+  footer > div > span > a {
+  color: #f8f9fa !important;
+  }
