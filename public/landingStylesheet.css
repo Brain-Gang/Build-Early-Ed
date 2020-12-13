@@ -75,3 +75,9 @@ ul.navbar-nav.mt-2.mt-md-0.ml-auto {
   #quickCards > div > div > div > a {
      color: #f8f9fa !important;
   }
+
+
+
+  body > nav > div.container.flex-column > a {
+      padding-left: -500px;
+  }
