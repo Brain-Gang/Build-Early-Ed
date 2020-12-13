@@ -66,6 +66,12 @@ ul.navbar-nav.mt-2.mt-md-0.ml-auto {
     text-align: center;
   }
 
+  /* the two following makes sure that the links stay white and the underline is also white 
+  so they appear to just be normal text*/
   footer > div > span > a {
   color: #f8f9fa !important;
+  }
+
+  #quickCards > div > div > div > a {
+     color: #f8f9fa !important;
   }
