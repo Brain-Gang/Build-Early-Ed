@@ -58,3 +58,6 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
       color: black;
   }
 
+  footer > div > span > a {
+    color: #f8f9fa !important;
+    }
