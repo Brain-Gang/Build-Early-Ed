@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Open+Sans:wght@600&display=swap');
 
 /* bee logo for all other pages */
 #beeImg {
     width: 8em;
 }
+
+body > nav > a {
+    font-family: 'Nanum Gothic', sans-serif;
+  }
 
 /* navbar bg color, text color and padding for landing page */
 nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
