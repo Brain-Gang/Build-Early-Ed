@@ -3,6 +3,7 @@
 THIS IS EXCLUSIVELY FOR THE LANDING PAGE
 *
 */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
 
 
 /* bee logo for the landing page */
@@ -17,6 +18,8 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
     padding-bottom: 5em;
     background-color: #84d0ce !important;
     font-size: 15;
+    font-family: 'Nanum Gothic', sans-serif;
+
 }
 
 /*navbar brand fontsize*/
