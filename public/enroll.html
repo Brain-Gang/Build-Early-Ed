@@ -14,43 +14,52 @@
 
 <body>
 
-    <!--Navbar-->
-
-    <nav class="navbar navbar-expand-lg navbar-light">
-        <a href="landing.html">
+   <!--Navbar-->
+   <nav class="navbar navbar-expand-lg navbar-light">
+    <!--Link Bee Logo to Landing Page-->
+    <a href="landing.html">
         <img src="images/bee.png" alt="bee image" id="beeImg">
         </a>
+        <!--Link Build Early Ed Title Text to Landing Page-->        
         <a class="navbar-brand" href="landing.html">Build Early Ed</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-            <ul class="navbar-nav mt-2 mt-md-0 ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="home.html">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Enroll</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="build.html">Build</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="earn.html">Earn</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="mapPage.html">Map</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="about.html">About</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
+    <!--Format Navbar Toggler for Pages-->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <!--End Format Navbar Toggler for Pages-->
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav mt-2 mt-md-0 ml-auto">
+            <li class="nav-item">
+                <!--Link Home in Navbar to Home Page-->
+                <a class="nav-link" href="home.html">Home</a>
+            </li>
+            <li class="nav-item">
+                <!--Link Enroll in Navbar to Enroll Page-->
+                <a class="nav-link" href="enroll.html">Enroll</a>
+            </li>
+            <li class="nav-item">
+                <!--Link Build in Navbar to Build Page-->
+                <a class="nav-link" href="build.html">Build</a>
+            </li>
+            <li class="nav-item">
+                <!--Link Earn in Navbar to Earn Page-->
+                <a class="nav-link" href="earn.html">Earn</a>
+            </li>
+            <li class="nav-item">
+                <!--Link Map in Navbar to Map Page-->
+                <a class="nav-link" href="mapPage.html">Map</a>
+            </li>
+            <li class="nav-item">
+                <!--Link About in Navbar to About Page-->
+                <a class="nav-link" href="about.html">About</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<!--End Navbar-->
 
-    <!--end navbar-->
-    <!--Home Page Text-->
+    <!--Enroll Page Text-->
     <section>
         <div class="container p-5">
             <H3>Head Start Enrollment Eligibility</H3>
@@ -61,14 +70,19 @@
             </p>
         </div>
     </section>
+     <!--End Enroll Page Text-->
+
+     <!--Enroll Page Cards-->
     <section>
         <div class="container">
             <div class="row justify-content-center">
+                <!--Formatting Blue Child's Age Card-->
                 <div class="card col-md-10 col-lg-5 rounded-0 text-white p-5 m-3" id="blue">
                     <div class="row justify-content-center">
+                        <!--Insert Blue Child's Age Card Icon-->
                         <i class="fas fa-child" style="font-size: 10rem;"></i>
                     </div>
-                    <!-- <img src="./images/Icon awesome-child.png" class="card-img-top img-fluid" alt="child icon"> -->
+                    <!--Insert Blue Child's Age Card Text-->
                     <h5 class="card-title row justify-content-center">
                         Child's Age
                     </h5>
@@ -77,14 +91,16 @@
                         children ages 0-5.
                         Prenatal services
                         are also provided.</p>
-
                 </div>
+                <!--End Blue Child's Age Card-->
+
+                <!--Formatting Purple Household Income Card-->
                 <div class="card col-md-10 col-lg-5 rounded-0 text-white p-5 m-3" id="purple">
                     <div class="row justify-content-center">
+                        <!--Insert Purple Household Income Card Icon-->
                         <i class="fas fa-money-bill-wave" style="font-size: 10rem;"></i>
                     </div>
-                    <!-- <img src="./images/Icon awesome-money-bill-wave.png" class="card-img-top img-fluid" -->
-                        <!-- alt="money icon"> -->
+                    <!--Insert Purple Household Income Card Text-->
                     <h5 class="card-title row justify-content-center">Household Income</h5>
                     <p>Head Start serves
                         families with
@@ -92,16 +108,16 @@
                         at or below the
                         federal poverty line.
                     </p>
-
                 </div>
-            </div> 
-            <div class="row justify-content-center">   
+                <!--End Purple Household Income Card-->
+ 
+                <!--Formatting Yellow Federal Benefits Card-->
                 <div class="card col-md-10 col-lg-5 rounded-0 text-white p-5 m-3" id="yellow">
                     <div class="row justify-content-center">
+                        <!--Insert Yellow Federal Benefits Card Icon-->
                         <i class="fas fa-hands-helping" style="font-size: 10rem;"></i>
                     </div>
-                    <!-- <img src="./images/Icon awesome-hands-helping.png" class="card-img-top img-fluid"
-                        alt="helping hands icon"> -->
+                    <!--Insert Yellow Federal Benefits Card Text-->
                     <h5 class="card-title row justify-content-center">Federal Benefits</h5>
                     <p>Beneficiaries of
                         Temporary Assistance
@@ -109,13 +125,16 @@
                         Social Security Income
                         are eligible.
                     </p>
-
                 </div>
+                <!--End Yellow Federal Benefits Card-->
+
+                <!--Formatting Pink Household Status Card-->
                 <div class="card col-md-10 col-lg-5 rounded-0 text-white p-5 m-3" id="pink">
                     <div class="row justify-content-center">
+                        <!--Insert Pink Household Status Card Icon-->
                         <i class="fas fa-home" id="house" style="font-size: 10rem;"></i>
                         </div>
-                    <!-- <img src="./images/Icon awesome-home.png" class="card-img-top img-fluid" alt="home icon"> -->
+                    <!--Insert Pink Household Status Card Text-->
                     <h5 class="card-title row justify-content-center">Household Status</h5>
                     <p>If your family is
                         experiencing
@@ -124,23 +143,24 @@
                         then your child is
                         eligible to enroll.
                     </p>
-
                 </div>
+             <!--End Pink Household Status Card-->   
             </div>
         </div>
     </section>
-
-    <!--End Home Page Text-->
+    <!--End Enroll Page Cards-->
 
     <!--Footer-->
     <footer class="footer">
+        <!--Format Footer-->
         <div class="container d-flex flex-wrap align-items-center justify-content-center">
             <span class="text-white">
+                <!--Insert Footer Icons and Text + Link Icons and Text to Appropriate Pages-->
                 <a href="home.html"> Home</a> | <i class="far fa-envelope"></i> buildearlyed@gmail.com | <a href="https://www.facebook.com/NMBuildEarlyEd/" class="fab fa-facebook"></a> <a href="https://twitter.com/buildearlyed" class="fab fa-twitter"></a> <a href="https://www.instagram.com/buildearlyed/" class="fab fa-instagram"></a> | ©Copyright 2020 Build
                 Early Ed | <a href="privacy.html"> Privacy </a></span>
         </div>
     </footer>
-
+    <!--End Footer-->
 
 
 
