@@ -68,4 +68,7 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
         color: black
     }
 
-   
+   #map {
+       width:75vw;
+       height:60vh;
+   }
