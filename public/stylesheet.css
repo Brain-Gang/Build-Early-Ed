@@ -9,6 +9,10 @@ body > nav > a {
     font-family: 'Nanum Gothic', sans-serif;
   }
 
+a {
+    color:white
+}
+
 /* navbar bg color, text color and padding for landing page */
 nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
     padding-bottom: 5em;
@@ -58,10 +62,10 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
       color: black;
   }
 
-  footer > div > span > a {
-    color: #f8f9fa !important;
-    }
+
 
     body > section:nth-child(4) > div > div.container > div > div > div > a > div {
         color: black
     }
+
+   
