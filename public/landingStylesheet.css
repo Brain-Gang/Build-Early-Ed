@@ -44,18 +44,22 @@ ul.navbar-nav.mt-2.mt-md-0.ml-auto {
 }
 
 /*color of the three main cards*/
-#quickCards > div > div > div:nth-child(1) {
+#enrollCard {
     background-color: #f75c6a !important;
     border-radius: 55px;
 }
 
-#quickCards > div > div > div:nth-child(2) {
+#buildCard {
     background-color: #F7C321 !important;
     border-radius: 55px;
 }
-#quickCards > div > div > div:nth-child(3) {
+#earnCard {
     background-color: #947fa0 !important;
     border-radius: 55px;
+}
+ .card > a  {
+display: flex;
+justify-content: center; 
 }
 
 .footer {
