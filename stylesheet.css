@@ -39,7 +39,7 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
 }
 
 #purple > a {
-  color: white;
+  color: white !important;
 }
 
 #blue {
