@@ -14,7 +14,7 @@ THIS IS EXCLUSIVELY FOR THE LANDING PAGE
 }
 
 /* navbar bg color, text color and padding for landing page */
-nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
+nav.navbar.navbar-expand-md.navbar-dark.bg-light {
     padding-bottom: 5em;
     background-color: #84d0ce !important;
     font-size: 15;
