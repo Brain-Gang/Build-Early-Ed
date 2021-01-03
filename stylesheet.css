@@ -26,6 +26,9 @@ a {
 .footer > div > span > a {
   color: white;
 }
+#needsToBeFixed > div > span > a {
+  color: white;
+}
 
 /* navbar bg color, text color and padding */
 nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
