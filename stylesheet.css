@@ -27,6 +27,10 @@ a {
   color: white;
 }
 
+#teamPic {
+height: 25vh;
+}
+
 /* navbar bg color, text color and padding */
 nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
     padding-bottom: 5em;
