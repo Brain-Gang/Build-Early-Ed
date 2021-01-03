@@ -16,7 +16,10 @@ a {
 #blue > a {
   color: white !important;
 }
-#purple > div > a > i, h5 {
+#purple > div > a > i {
+  color: white !important;
+}
+#purple > div > a > h5 {
   color: white !important;
 }
 
