@@ -10,7 +10,7 @@ body > nav > a {
   }
 
 a {
-    color:white !important;
+    color:white;
 }
 
 /* navbar bg color, text color and padding */
