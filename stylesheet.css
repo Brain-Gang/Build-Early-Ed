@@ -23,7 +23,7 @@ a {
   color: white !important;
 }
 
-.footer > a {
+.footer > div > span > a {
   color: white;
 }
 
