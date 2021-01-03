@@ -13,6 +13,10 @@ THIS IS EXCLUSIVELY FOR THE LANDING PAGE
     margin-top: 2em;
 }
 
+body > nav > div > ul > h5 {
+    color:white;
+}
+
 /* navbar bg color, text color and padding for landing page */
 nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
     padding-bottom: 5em;
