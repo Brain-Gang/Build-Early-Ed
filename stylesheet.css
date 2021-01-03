@@ -23,9 +23,6 @@ a {
   color: white !important;
 }
 
-.footer > div > span > a {
-  color: white;
-}
 #needsToBeFixed > div > span > a {
   color: white;
 }
@@ -76,19 +73,19 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
   }
 
 
-    #needsToBeFixed {
-        position: fixed;
-    }
+#needsToBeFixed {
+    position: fixed;
+}
 
-   #map {
-       width:75vw;
-       height:60vh;
-   }
+#map {
+    width:75vw;
+    height:60vh;
+}
 
 
 /*About Me hover effects on images*/
 
-   .box5{background:#444;position:relative}
+.box5{background:#444;position:relative}
 .box5:after,.box5:before{width:50px;height:50px;border-radius:50%;background:#10a5b8;position:absolute;top:-80px;left:15px;opacity:0;z-index:1;transition:all .35s ease}
 .box5:after{top:auto;left:auto;bottom:-80px;right:15px}
 .box5:hover:after,.box5:hover:before{opacity:.75;transform:scale(8);transition-delay:.15s}
