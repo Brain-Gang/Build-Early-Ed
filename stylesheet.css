@@ -36,9 +36,19 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
 #purple {
     background-color: #947fa0;
 }
+
+#purple > a {
+  color: white;
+}
+
 #blue {
     background-color: #84d0ce;
 }
+
+#blue > a {
+color: white;
+}
+
 .card-img-top .img-fluid {
     width: 100%;
     height: 15vw !important;
@@ -196,7 +206,7 @@ img{ max-width:100%;}
 .srch_bar {
   display: inline-block;
   text-align: right;
-  width: 60%; padding:
+  width: 60%; 
 }
 .headind_srch{ padding:10px 29px 10px 20px; overflow:hidden; border-bottom:1px solid #c4c4c4;}
 
