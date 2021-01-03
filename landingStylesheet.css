@@ -34,7 +34,7 @@ ul.navbar-nav.mt-2.mt-md-0.ml-auto {
 
 /*text color for text in the navbar, excludes the Build early ed part*/
 /* also added the text on the cards*/
-.navbar-dark .navbar-nav .nav-link, h3, h1 {
+.navbar-dark .navbar-nav .nav-link, h5, h1 {
     color: #f8f7f7;
 }
 
