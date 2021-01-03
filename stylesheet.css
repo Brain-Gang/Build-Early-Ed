@@ -43,6 +43,14 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
     font-size: 2rem;
 }
 
+#green {
+  background-color:	#A5DE74;
+}
+
+#white {
+  background-color: white;
+}
+
 #pink {
     background-color: #f75c6a;
 }
