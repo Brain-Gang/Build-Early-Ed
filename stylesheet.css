@@ -23,6 +23,10 @@ a {
   color: white !important;
 }
 
+.footer > a {
+  color: white;
+}
+
 /* navbar bg color, text color and padding */
 nav.navbar.navbar-expand-lg.navbar-dark.bg-light {
     padding-bottom: 5em;
