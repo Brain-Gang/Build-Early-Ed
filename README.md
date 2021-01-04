@@ -9,12 +9,13 @@ Build Early Ed began as a data science project with a goal to use open datasets 
 ## The Team
 
 ### Alija Blackwell
+Alija is a Creative Technologist with a background in community planning, digital media, and data science. Since completing the Data Science program, Alija has been designing immersive installation art and using machine learning for organizational equity analysis.
 
 ### Kathleen Mattos
 
 ### Gabriel Fosse
 Gabriel Fosse has a background in ethical hacking and linux systems administration. After completing the Data Science program he has been working as a freelancer using neural networks for sound classification and analysis.
 
-#### Languages and Libraries
-For data science we used (among others) python, pandas, geopandas, XGBoost, matplotlib, and numpy. Our webapp uses HTML, CSS, and Mapbox.
+## Languages and Libraries
+Our web app and map is powered by HTML, CSS, Mapbox, Python, Pandas, Geopandas, XGBoost, Matplotlib, Scikitlearn, Folium, Shapely, and Numpy. 
 
