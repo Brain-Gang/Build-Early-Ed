@@ -16,6 +16,6 @@ Alija is a Creative Technologist with a background in community planning, digita
 ### Gabriel Fosse
 Gabriel Fosse has a background in ethical hacking and linux systems administration. After completing the Data Science program he has been working as a freelancer using neural networks for sound classification and analysis.
 
-#### Languages and Libraries
+## Languages and Libraries
 Our web app and map is powered by HTML, CSS, Mapbox, Python, Pandas, Geopandas, XGBoost, Matplotlib, Scikitlearn, Folium, Shapely, and Numpy. 
 
