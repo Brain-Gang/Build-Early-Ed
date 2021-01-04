@@ -14,7 +14,7 @@ Here are some screen shots:
 
 ![NM BEE](https://github.com/Brain-Gang/Build-Early-Ed/blob/master/images/nmbee_iphone_ls.png)
 
-![NM BEE](https://github.com/Brain-Gang/Build-Early-Ed/blob/master/images/mobileScreenshots.png)
+![NM BEE](https://github.com/Brain-Gang/Build-Early-Ed/blob/master/images/nmbee_map.png)
 
 
 ## About
@@ -32,5 +32,8 @@ Gabriel Fosse has a background in ethical hacking and linux systems administrati
 
 ## Languages and Libraries
 Our web app and map is powered by HTML, CSS, Mapbox, Python, Pandas, Geopandas, XGBoost, Matplotlib, Scikitlearn, Folium, Shapely, and Numpy. 
+
+## Security 
+Our web page has an SSL certificate and uses HTTPS encryption. See more on our privacy page.
 
 Contact us at buildearlyed@gmail.com
