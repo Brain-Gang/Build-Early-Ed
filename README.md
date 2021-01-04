@@ -18,6 +18,7 @@ Build Early Ed began as a data science project with a goal to use open datasets 
 Alija is a Creative Technologist with a background in community planning, digital media, and data science. Since completing the Data Science program, Alija has been designing immersive installation art and using machine learning for organizational equity analysis.
 
 ### Kathleen Mattos
+Kathleen is a data scientist and web developer who focuses on using data to identify and communicate ways to improve the lives of people our community. Since completing the Data Science program at Deep Dive she has gone on to work on projects utilizing machine learning, GIS, and fullstack web development.
 
 ### Gabriel Fosse
 Gabriel Fosse has a background in ethical hacking and linux systems administration. After completing the Data Science program he has been working as a freelancer using neural networks for sound classification and analysis.
