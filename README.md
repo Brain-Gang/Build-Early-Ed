@@ -8,9 +8,9 @@ Here are some screen shots:
 
 ![NM BEE](https://github.com/Brain-Gang/Build-Early-Ed/blob/master/images/nmbee_landing.png)
 
-![NM BEE](https://github.com/Brain-Gang/Build-Early-Ed/blob/master/images/nmbee_map.png)
-
 ![NM BEE](https://github.com/Brain-Gang/Build-Early-Ed/blob/master/images/nmbee_iphone_ls.png)
+
+![NM BEE](https://github.com/Brain-Gang/Build-Early-Ed/blob/master/images/mobileScreenshots.png)
 
 ## About
 Build Early Ed began as a data science project with a goal to use open datasets to identify which neighborhoods in NM were underserved by and eligible for a Head Start Center (https://www.youtube.com/watch?v=1dDkCk3ZhNk). We created a companion web app to share this information with the people of NM to identify the nearest Head Start location,  see if they qualify for services, and if there is not a nearby location, use our site to gauge how likely their neighborhood is to qualify for a Head Start location and direct them to resources to apply for one.
