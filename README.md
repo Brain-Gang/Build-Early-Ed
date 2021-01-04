@@ -1,5 +1,5 @@
 # Build Early Ed.
-Web application to connect New Mexicans to early childhood education opportunities. Using a map powered by data science, community members can identify their eligibility to enroll in or apply for grant funding for Head Start programs based on economic and demographic characteristics. Build Early Ed connects residents to opportunities to advance their career in early childhood education by centralizing academic and professional opportunities in the field. We also connect New Mexicans to local organizations and resources to support advocacy for early childhood education opportunities. Together, we can build a stronger continuum of care for youth in New Mexico.
+Web application to connect New Mexicans to early childhood education opportunities. Using a map powered by data science, community members can identify their eligibility to enroll their child in Head Start or apply for grant funding for Head Start programs based on economic and demographic characteristics. Build Early Ed connects residents to opportunities to advance their career in early childhood education by centralizing academic and professional opportunities in the field. We also connect New Mexicans to local organizations and resources to support advocacy for early childhood education opportunities. Together, we can build a stronger continuum of care for youth in New Mexico.
 
 Contact us at buildearlyed@gmail.com
 
@@ -14,4 +14,7 @@ Build Early Ed began as a data science project with a goal to use open datasets 
 
 ### Gabriel Fosse
 Gabriel Fosse has a background in ethical hacking and linux systems administration. After completing the Data Science program he has been working as a freelancer using neural networks for sound classification and analysis.
+
+#### Languages and Libraries
+For data science we used (among others) python, pandas, geopandas, XGBoost, matplotlib, and numpy. Our webapp uses HTML, CSS, and Mapbox.
 
