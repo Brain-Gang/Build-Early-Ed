@@ -13,4 +13,5 @@ Build Early Ed began as a data science project with a goal to use open datasets 
 ### Kathleen Mattos
 
 ### Gabriel Fosse
+Gabriel Fosse has a background in ethical hacking and linux systems administration. After completing the Data Science program he has been working as a freelancer using neural networks for sound classification and analysis.
 
